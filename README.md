@@ -33,7 +33,7 @@ The clicker leverages a combination of:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/blum-airdrop-clicker.git
+    git clone https://github.com/dew-sec/blum-airdrop-clicker.git
     cd blum-airdrop-clicker
     ```
 
